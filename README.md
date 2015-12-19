@@ -1,5 +1,4 @@
-# pos_v1
-
+- 作业要求
 # pos_project
 POS收银机 版本：v1
 ##教学目标
